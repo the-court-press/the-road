@@ -2,7 +2,7 @@
 
 A free Mathera game — phone-first algebra licenses on one road.
 
-**Live:** https://julianlee314-hue.github.io/the-road/
+**Live:** https://the-court-press.github.io/the-road/
 
 Curriculum first; the race is the spoonful of sugar. Progress saves in the browser (`the-road-v1`). No accounts, no ads.
 
@@ -29,7 +29,7 @@ Curriculum first; the race is the spoonful of sugar. Progress saves in the brows
 
 Plates 12–15 are the precalc bridge (playable) before Limits. Graph / number-line choices stay picture cards. Everything else is tap-the-next-move on the expression.
 
-Separate from Math Sensei’s [Precedence](https://julianlee314-hue.github.io/precedence/) MVP (different save key, different skin).
+Separate from Math Sensei’s [Precedence](https://the-court-press.github.io/precedence/) MVP (different save key, different skin).
 
 ## Source
 
